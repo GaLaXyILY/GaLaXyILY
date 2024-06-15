@@ -6,7 +6,7 @@
 <div>
 <img align="left" alt="GaLaXyILY" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/uvpszn.jpg">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaLaXyILY&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
   fake thats fake!
 </p>
   <img align="right" alt="GaLaXyILY" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/euk3ju.png">
